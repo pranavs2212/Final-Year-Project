@@ -1,6 +1,7 @@
 # Final-Year-Project
-##Twitter Sentiment Analysis
-##Overview
+#Twitter Sentiment Analysis
+
+#Overview
 This project aims to perform sentiment analysis on Twitter data using machine learning and deep learning techniques. Sentiment analysis involves determining the sentiment (positive, negative, or neutral) expressed in a piece of text. The project explores two approaches: a traditional machine learning model (Naive Bayes) and a deep learning model (LSTM neural network).
 
 ###Features
